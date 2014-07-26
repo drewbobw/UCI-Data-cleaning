@@ -3,7 +3,7 @@ Human Activity data provided by University of California
 at Irvine.  The experimental data can be found here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-The repository consists of XX files:
+The repository consists of 10 files:
 README.md- this readme file
 
 run_analysis.R- The script file that takes in the raw data from UCI 
